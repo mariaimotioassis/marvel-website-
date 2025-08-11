@@ -1,10 +1,10 @@
 body{
     color: white;
-    background: red;
+    background: rgb(245, 40, 40);
 }
 
 
 
 header {
-    border: solid 2px white;
+    border: solid 2px rgb(241, 224, 224);
 }
