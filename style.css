@@ -1,14 +1,4 @@
-body{
+body {
+    background: red;
     color: white;
-    background: rgb(245, 40, 40);
-    margin: 0px;
-}
-
-
-
-header {
-    border-bottom: solid 2px rgb(241, 224, 224);
-    padding: 20px;
-    font-size: 30px;
-    color: rgb(242, 224, 224)
 }
