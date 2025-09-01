@@ -2,6 +2,7 @@ body {
     color: white;
     background: rgb(235, 11, 11);
     margin: 0px;
+    font-family: "Gravitas One", serif;
 }
 
 header {
@@ -23,3 +24,11 @@ section{
     margin-right: 5%;
 }
 
+
+h1 {
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
